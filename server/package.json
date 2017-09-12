@@ -1,0 +1,17 @@
+{
+  "name": "com.nate.adventuremap",
+  "version": "0.0.1",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neil anthony te",
+  "license": "ISC",
+  "dependencies": {
+    "feathers": "^2.2.0",
+    "feathers-mongodb": "^2.9.0",
+    "feathers-socketio": "^2.0.0",
+    "mongodb": "^2.2.31"
+  }
+}
